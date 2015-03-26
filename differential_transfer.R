@@ -9,6 +9,9 @@ differential_transfer <- function(family) {
     fisher.test(transfer_family)$p.value
 }
 
+# TODO: refactor merge with differential_transfer function
+# TODO: bug fix if functional_group is not seen table is 2 by 1 and test fails
+
 #' for a given funcitional group finds if there is preferential transfer
 #' of contigs. 
 #' @return p value for Fisher's exact test
@@ -26,22 +29,18 @@ all_pfam_families <- function(cdd) {
     as.character(unique(pfams))
 }
 
-transferred_contigs <- scan("transfferred_contigs_from_4_donor.txt", what=character())
-
 contig_cdd <- read_contig_cdd("minimo_contigs_min_len_500_cdd_accession.tsv")
 cdd_annotation <- read_cdd_annotation("pfam_function.tsv")
 cdd_contig_annotation <- add_annotataion_to_cdd(contig_cdd, cdd_annotation)
 
+transferred_contigs <- scan("transfferred_contigs_from_4_donor.txt", what=character())
 cdd_contig_annotation$is_transferred <- cdd_contig_annotation$contig %in% transferred_contigs
 
 pfam_families <- all_pfam_families(cdd_contig_annotation$cdd)
-
-functional_groups <- as.character(unique(cdd_annotation$annotation))
-
 differential_transferred_families <- sapply(pfam_families, differential_transfer)
 families_of_interest <- differential_transferred_families[ differential_transferred_families < 0.1]
 
-
+functional_groups <- as.character(unique(cdd_annotation$annotation))
 differential_transferred_functional_groups <- sapply(functional_groups, differential_transfer_group)
 functional_groups_of_interest <- differential_transferred_functional_groups[ 
     differential_transferred_functional_groups < 0.1]
