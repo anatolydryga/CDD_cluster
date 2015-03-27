@@ -21,8 +21,14 @@ def get_title(cdd_accession):
     return title
 
 def parse_output(output_fh):
-    next(output_fh)
-    return next(output_fh)[3:].strip()
+    try:
+        next(output_fh)
+    except StopIteration:
+        return "DESCRIPTION IS NOT AVAILABLE"
+    line = next(output_fh)
+    assert len(line) >= 5 # for "1. " desciption + "\n"
+    line = line[3:].strip()
+    return line
     
 
 assert len(sys.argv) == 3
