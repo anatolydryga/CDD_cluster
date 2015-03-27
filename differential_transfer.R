@@ -10,7 +10,6 @@ differential_transfer <- function(family) {
 }
 
 # TODO: refactor merge with differential_transfer function
-# TODO: bug fix if functional_group is not seen table is 2 by 1 and test fails
 
 #' for a given funcitional group finds if there is preferential transfer
 #' of contigs. 
@@ -19,6 +18,7 @@ differential_transfer <- function(family) {
 differential_transfer_group <- function(functional_group) {
     cdd_contig_annotation$is_family <- cdd_contig_annotation$annotation == functional_group
     transfer_family <- table(cdd_contig_annotation$is_transferred, cdd_contig_annotation$is_family)
+    if (nrow(transfer_family) != 2 || ncol(transfer_family) != 2) return(1.0)
     cdd_contig_annotation$is_family <- NULL
     fisher.test(transfer_family)$p.value
 }
