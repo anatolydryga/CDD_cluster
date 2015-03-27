@@ -1,0 +1,207 @@
+pfam05954	PhageRegulation	Phage_GPD: Phage late control gene D protein (GPD)
+pfam09669	PhageRegulation	Phage_pRha: Phage regulatory protein Rha (Phage_pRha)
+pfam01381	PhageRegulation	HTH_3: Helix-turn-helix
+pfam07409	PhageOther	GP46: Phage protein GP46
+pfam05840	PhageOther	Phage_GPA: Bacteriophage replication gene A protein (GPA)
+pfam09681	PhageOther	Phage_rep_org_N: N-terminal phage replisome organizer (Phage_rep_org_N)
+pfam05435	PhageOther	Phi-29_GP3: Phi-29 DNA terminal protein GP3
+pfam05565	PhageOther	Sipho_Gp157: Siphovirus Gp157
+pfam08706	PhageOther	D5_N: D5 N terminal like
+pfam09039	PhageOther	HTH_Tnp_Mu_2: Mu DNA binding, I gamma subdomain
+pfam06854	PhageOther	Phage_Gp15: Bacteriophage Gp15 protein
+pfam05973	PhageOther	Gp49: Phage derived protein Gp49-like (DUF891)
+pfam07505	PhageOther	Gp37_Gp68: Phage protein Gp37/Gp68
+pfam08010	PhageOther	Phage_30_3: Bacteriophage protein GP30.3
+pfam08890	PhageOther	XkdN: Phage XkdN-like protein
+pfam09355	PhageOther	Phage_Gp19: Phage protein Gp19/Gp15/Gp42
+pfam09524	PhageOther	Phg_2220_C: Conserved phage C-terminus (Phg_2220_C)
+pfam10123	PhageOther	Mu-like_Pro: Mu-like prophage I protein
+pfam12363	PhageOther	DUF3647: Phage protein
+pfam04883	PhageOther	HK97-gp10_like: Bacteriophage HK97-gp10, putative tail-component
+pfam05895	PhageOther	DUF859: Siphovirus protein of unknown function (DUF859)
+pfam00242	PhageOther	DNA_pol_viral_N: DNA polymerase (viral) N-terminal domain
+pfam06199	PhageTail	Phage_tail_2: Phage major tail protein 2
+pfam05069	PhageTail	Phage_tail_S: Phage virion morphogenesis family
+pfam04984	PhageTail	Phage_sheath_1: Phage tail sheath protein
+pfam10145	PhageTail	PhageMin_Tail: Phage-related minor tail protein
+pfam06841	PhageTail	Phage_T4_gp19: T4-like virus tail tube protein gp19
+pfam04985	PhageTail	Phage_tube: Phage tail tube protein FII
+pfam05489	PhageTail	Phage_tail_X: Phage Tail Protein X
+pfam03406	PhageTail	Phage_fiber_2: Phage tail fibre repeat
+pfam03906	PhageTail	Phage_T7_tail: Phage T7 tail fibre protein
+pfam03903	PhageTail	Phage_T4_gp36: Phage T4 tail fibre
+pfam05100	PhageTail	Phage_tail_L: Phage minor tail protein L
+pfam08813	PhageTail	Phage_tail_3: Phage tail protein
+pfam05709	PhageTail	Sipho_tail: Phage tail protein
+pfam09684	PhageTail	Tail_P2_I: Phage tail protein (Tail_P2_I)
+pfam10618	PhageTail	Tail_tube: Phage tail tube protein
+pfam00877	PhageTail	NLPC_P60: NlpC/P60 family
+pfam06995	PhageTail	Phage_P2_GpU: Phage P2 GpU
+pfam10665	PhageTail	Minor_capsid_1: Minor capsid protein
+pfam03864	PhageCapsid	Phage_cap_E: Phage major capsid protein E
+pfam02305	PhageCapsid	Phage_F: Capsid protein (F protein)
+pfam05065	PhageCapsid	Phage_capsid: Phage capsid family
+pfam06152	PhageCapsid	Phage_min_cap2: Phage minor capsid protein 2
+pfam11133	PhageCapsid	Phage_head_fibr: Head fiber protein
+pfam11114	PhageCapsid	Minor_capsid_2: Minor capsid protein
+pfam10124	PhageCapsid	Mu-like_gpT: Mu-like prophage major head subunit gpT
+pfam04233	PhageCapsid	Phage_Mu_F: Phage Mu protein F like protein
+pfam05133	PhagePortal	Phage_prot_Gp6: Phage portal protein, SPP1 Gp6-like
+pfam04860	PhagePortal	Phage_portal: Phage portal protein
+pfam05136	PhagePortal	Phage_portal_2: Phage portal protein, lambda family
+pfam05521	PhagePortal	Phage_H_T_join: Phage head-tail joining protein
+pfam12236	PhagePortal	Head-tail_con: Bacteriophage head to tail connecting protein
+pfam05352	PhagePortal	Phage_connector: Phage Connector (GP10)
+pfam07484	PhagePortal	Collar: Phage Tail Collar Domain
+pfam06890	PhageBaseplate	Phage_Mu_Gp45: Bacteriophage Mu Gp45 protein
+pfam04717	PhageBaseplate	Phage_base_V: Phage-related baseplate assembly protein
+pfam04865	PhageBaseplate	Baseplate_J: Baseplate J-like protein
+pfam06810	PhageOtherStructural	Phage_GP20: Phage minor structural protein GP20
+pfam09675	PhageOtherStructural	Chlamy_scaf: Chlamydia-phage Chp2 scaffold (Chlamy_scaf)
+pfam00589	PhageIntegrase	Phage_integrase: Phage integrase family
+pfam02899	PhageIntegrase	Phage_int_SAM_1: Phage integrase, N-terminal SAM-like domain
+pfam04531	PhageHolin	Phage_holin_1: Bacteriophage holin
+pfam05105	PhageHolin	Phage_holin_4: Holin family
+pfam09682	PhageHolin	Holin_LLH: Phage holin protein (Holin_LLH)
+pfam07022	PhageRepressor	Phage_CI_repr: Bacteriophage CI repressor helix-turn-helix domain
+pfam03374	PhageAntiRepressor	ANT: Phage antirepressor protein KilAC domain
+pfam10668	PhageTerminase	Phage_terminase: Phage terminase small subunit
+pfam03237	PhageTerminase	Terminase_6: Terminase-like family
+pfam03354	PhageTerminase	Terminase_1: Phage Terminase
+pfam03592	PhageTerminase	Terminase_2: Terminase small subunit
+pfam04466	PhageTerminase	Terminase_3: Phage terminase large subunit
+pfam05876	PhageTerminase	Terminase_GpA: Phage terminase large subunit (GpA)
+pfam06056	PhageTerminase	Terminase_5: Putative ATPase subunit of terminase (gpP-like)
+pfam06791	PhageTerminase	TMP_2: Prophage tail length tape measure protein
+pfam07471	PhageDNAPackaging	Phage_Nu1: Phage DNA packaging protein Nu1
+pfam09718	PhageDNAPackaging	Tape_meas_lam_C: Lambda phage tail tape-measure protein (Tape_meas_lam_C)
+pfam05135	PhageDNAPackaging	Phage_connect_1: Phage gp6-like head-tail connector protein
+pfam05894	PhageDNAPackaging	Podovirus_Gp16: Podovirus DNA encapsidation protein (Gp16)
+pfam07352	PhageDNAPackaging	Phage_Mu_Gam: Bacteriophage Mu Gam like protein
+pfam05441	PhageDNAPackaging	DESCRIPTION IS NOT AVAILABLE
+pfam02914	Transposase	DDE_2: Bacteriophage Mu transposase
+pfam01385	Transposase	OrfB_IS605: Probable transposase
+pfam07282	Transposase	OrfB_Zn_ribbon: Putative transposase DNA-binding domain
+pfam01527	Transposase	HTH_Tnp_1: Transposase
+pfam01609	Transposase	DDE_Tnp_1: Transposase DDE domain
+pfam01610	Transposase	DDE_Tnp_ISL3: Transposase
+pfam02371	Transposase	Transposase_20: Transposase IS116/IS110/IS902 family
+pfam01548	Transposase	DEDD_Tnp_IS110: Transposase
+pfam03050	Transposase	DDE_Tnp_IS66: Transposase IS66 family
+pfam00872	Transposase	Transposase_mut: Transposase, Mutator family
+pfam05598	Transposase	DUF772: Transposase domain (DUF772)
+pfam10551	Transposase	MULE: MULE transposase domain
+pfam09299	Transposase	Mu-transpos_C: Mu transposase, C-terminal
+pfam12323	Transposase	HTH_OrfB_IS605: Helix-turn-helix domain
+pfam01695	Transposase	IstB_IS21: IstB-like ATP binding protein
+pfam00239	Resolvase	Resolvase: Resolvase, N terminal domain
+pfam00521	Topoisomerase	DNA_topoisoIV: DNA gyrase/topoisomerase IV, subunit A
+pfam01131	Topoisomerase	Topoisom_bac: DNA topoisomerase
+pfam01028	Topoisomerase	Topoisom_I: Eukaryotic DNA topoisomerase I, catalytic core
+pfam09770	Topoisomerase	PAT1: Topoisomerase II-associated protein PAT1
+pfam09588	Recombinase	YqaJ: YqaJ-like viral recombinase domain
+pfam00154	Recombinase	RecA: recA bacterial DNA recombination protein
+pfam07508	Recombinase	Recombinase: Recombinase
+pfam03838	Recombinase	RecU: Recombination protein U
+pfam01076	Recombinase	Mob_Pre: Plasmid recombination enzyme
+pfam01870	Recombinase	Hjc: Archaeal holliday junction resolvase (hjc)
+pfam02075	Recombinase	RuvC: Crossover junction endodeoxyribonuclease RuvC
+pfam05766	Recombinase	NinG: Bacteriophage Lambda NinG protein
+pfam01510	Amidase	Amidase_2: N-acetylmuramoyl-L-alanine amidase
+pfam01520	Amidase	Amidase_3: N-acetylmuramoyl-L-alanine amidase
+pfam05382	Amidase	Amidase_5: Bacteriophage peptidoglycan hydrolase
+pfam00717	Peptidase	Peptidase_S24: Peptidase S24-like
+pfam08291	Peptidase	Peptidase_M15_3: Peptidase M15
+pfam04586	Peptidase	Peptidase_U35: Caudovirus prohead protease
+pfam05951	Peptidase	Peptidase_M15_2: Bacterial protein of unknown function (DUF882)
+pfam01343	Peptidase	Peptidase_S49: Peptidase family S49
+pfam08496	Peptidase	Peptidase_S49_N: Peptidase family S49 N-terminal
+pfam10463	Peptidase	Peptidase_U49: Peptidase U49
+pfam10459	Peptidase	Peptidase_S46: Peptidase S46
+pfam01551	Peptidase	Peptidase_M23: Peptidase family M23
+pfam00112	Peptidase	Peptidase_C1: Papain family cysteine protease
+pfam03575	Peptidase	Peptidase_S51: Peptidase family S51
+pfam01434	Peptidase	Peptidase_M41: Peptidase family M41
+pfam07722	Peptidase	Peptidase_C26: Peptidase C26
+pfam02163	Peptidase	Peptidase_M50: Peptidase family M50
+pfam05579	Peptidase	Peptidase_S32: Equine arteritis virus serine endopeptidase S32
+pfam00768	Peptidase	Peptidase_S11: D-alanyl-D-alanine carboxypeptidase
+pfam00326	Peptidase	Peptidase_S9: Prolyl oligopeptidase family
+pfam05838	Lysozyme	Glyco_hydro_108: Glycosyl hydrolase 108
+pfam01476	Lysozyme	LysM: LysM domain
+pfam01832	Lysozyme	Glucosaminidase: Mannosyl-glycoprotein endo-beta-N-acetylglucosaminidase
+pfam01464	Lysozyme	SLT: Transglycosylase SLT domain
+pfam01471	Lysozyme	PG_binding_1: Putative peptidoglycan binding domain
+pfam01464	Lysozyme	SLT: Transglycosylase SLT domain
+pfam08230	Lysozyme	Cpl-7: Cpl-7 lysozyme C-terminal domain
+pfam04965	Lysozyme	GPW_gp25: Gene 25-like lysozyme
+pfam08282	Hydrolase	Hydrolase_3: haloacid dehalogenase-like hydrolase
+pfam07486	Hydrolase	Hydrolase_2: Cell Wall Hydrolase
+pfam00702	Hydrolase	Hydrolase: haloacid dehalogenase-like hydrolase
+pfam00145	Restriction-Modification	DNA_methylase: C-5 cytosine-specific DNA methylase
+pfam05869	Restriction-Modification	Dam: DNA N-6-adenine-methyltransferase (Dam)
+pfam12047	Restriction-Modification	DNMT1-RFD: Cytosine specific DNA methyltransferase replication foci domain
+pfam08241	Restriction-Modification	Methyltransf_11: Methyltransferase domain
+pfam08242	Restriction-Modification	Methyltransf_12: Methyltransferase domain
+pfam02086	Restriction-Modification	MethyltransfD12: D12 class N6 adenine-specific DNA methyltransferase
+pfam02384	Restriction-Modification	N6_Mtase: N-6 DNA Methylase
+pfam05441	Restriction-Modification	DESCRIPTION IS NOT AVAILABLE
+pfam07352	Restriction-Modification	Phage_Mu_Gam: Bacteriophage Mu Gam like protein
+pfam04471	RestrictionEnzyme	Mrr_cat: Restriction endonuclease
+pfam01844	RestrictionEnzyme	HNH: HNH endonuclease
+pfam00929	RestrictionEnzyme	RNase_T: Exonuclease
+pfam02195	RestrictionEnzyme	ParBc: ParB-like nuclease domain
+pfam08722	RestrictionEnzyme	Tn7_Tnp_TnsA_N: TnsA endonuclease N terminal
+pfam05866	RestrictionEnzyme	RusA: Endodeoxyribonuclease RusA
+pfam09569	RestrictionEnzyme	RE_ScaI: ScaI restriction endonuclease
+pfam09571	RestrictionEnzyme	RE_XcyI: XcyI restriction endonuclease
+pfam07669	RestrictionEnzyme	Eco57I: Eco57I restriction-modification methylase
+pfam04851	RestrictionEnzyme	ResIII: Type III restriction enzyme, res subunit
+pfam06616	RestrictionEnzyme	BsuBI_PstI_RE: BsuBI/PstI restriction endonuclease C-terminus
+pfam01183	RestrictionEnzyme	Glyco_hydro_25: Glycosyl hydrolases family 25
+pfam01555	RestrictionEnzyme	N6_N4_Mtase: DNA methylase
+pfam08774	RestrictionEnzyme	VRR_NUC: VRR-NUC domain
+pfam00665	EukaryoticVirus	rve: Integrase core domain
+pfam00910	EukaryoticVirus	RNA_helicase: RNA helicase
+pfam05955	EukaryoticVirus	Herpes_gp2: Equine herpesvirus glycoprotein gp2
+pfam01601	EukaryoticVirus	Corona_S2: Coronavirus S2 glycoprotein
+pfam00606	EukaryoticVirus	Glycoprotein_B: Herpesvirus Glycoprotein B
+pfam02689	EukaryoticVirus	Herpes_Helicase: Helicase
+pfam05109	EukaryoticVirus	Herpes_BLLF1: Herpes virus major outer envelope glycoprotein (BLLF1)
+pfam07415	EukaryoticVirus	Herpes_LMP2: Gammaherpesvirus latent membrane protein (LMP2) protein
+pfam05297	EukaryoticVirus	Herpes_LMP1: Herpesvirus latent membrane protein 1 (LMP1)
+pfam02956	EukaryoticVirus	TT_ORF1: TT viral orf 1
+pfam04395	EukaryoticVirus	Poxvirus_B22R: Poxvirus B22R protein
+pfam03288	EukaryoticVirus	Pox_D5: Poxvirus D5 protein-like
+pfam05087	EukaryoticVirus	Rota_VP2: Rotavirus VP2 protein
+pfam00901	EukaryoticVirus	Orbi_VP5: Orbivirus outer capsid protein VP5
+pfam00898	EukaryoticVirus	Orbi_VP2: Orbivirus outer capsid protein VP2
+pfam04582	EukaryoticVirus	Reo_sigmaC: Reovirus sigma C capsid protein
+pfam05708	EukaryoticVirus	DUF830: Orthopoxvirus protein of unknown function (DUF830)
+pfam03276	EukaryoticVirus	Gag_spuma: Spumavirus gag protein
+pfam01057	EukaryoticVirus	Parvo_NS1: Parvovirus non-structural protein NS1
+pfam06317	EukaryoticVirus	Arena_RNA_pol: Arenavirus RNA polymerase
+pfam04513	EukaryoticVirus	Baculo_PEP_C: Baculovirus polyhedron envelope protein, PEP, C terminus
+pfam05541	EukaryoticVirus	Spheroidin: Entomopoxvirus spheroidin protein
+pfam05314	EukaryoticVirus	Baculo_ODV-E27: Baculovirus occlusion-derived virus envelope protein EC27
+pfam01443	EukaryoticVirus	Viral_helicase1: Viral (Superfamily 1) RNA helicase
+pfam02459	EukaryoticVirus	Adeno_terminal: Adenoviral DNA terminal protein
+pfam00242	EukaryoticVirus	DNA_pol_viral_N: DNA polymerase (viral) N-terminal domain
+pfam00910	EukaryoticVirus	RNA_helicase: RNA helicase
+pfam08706	EukaryoticVirus	D5_N: D5 N terminal like
+pfam05518	EukaryoticVirus	Totivirus_coat: Totivirus coat protein
+pfam00799	Plantvirus	Gemini_AL1: Geminivirus Rep catalytic domain
+pfam01690	Plantvirus	PLRV_ORF5: Potato leaf roll virus readthrough protein
+pfam07236	Plantvirus	Phytoreo_S7: Phytoreovirus S7 protein
+pfam10439	Bacteriocin	Bacteriocin_IIc: Bacteriocin class II with double-glycine leader peptide
+pfam11725	Pathogenicityfactor	AvrE: Pathogenicity factor
+pfam05272	Pathogenicityfactor	VirE: Virulence-associated protein E
+pfam00419	Pathogenicityfactor	Fimbrial: Fimbrial protein
+pfam00652	Pathogenicityfactor	Ricin_B_lectin: Ricin-type beta-trefoil lectin domain
+pfam09643	Pathogenicityfactor	YopX: YopX protein
+pfam05973	Pathogenicityfactor	Gp49: Phage derived protein Gp49-like (DUF891)
+pfam00144	Lactamase	Beta-lactamase: Beta-lactamase
+pfam00753	Lactamase	Lactamase_B: Metallo-beta-lactamase superfamily
+pfam00078	ReverseTranscriptase	RVT_1: Reverse transcriptase (RNA-dependent DNA polymerase)
+pfam00075	RNaseH	RNase_H: RNase H
+pfam05183	RdRP	RdRP: RNA dependent RNA polymerase

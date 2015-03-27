@@ -1,0 +1,241 @@
+pfam00013	KH_1: KH domain
+pfam00122	E1-E2_ATPase: E1-E2 ATPase
+pfam00126	HTH_1: Bacterial regulatory helix-turn-helix protein, lysR family
+pfam00140	Sigma70_r1_2: Sigma-70 factor, region 1.2
+pfam00165	HTH_AraC: Bacterial regulatory helix-turn-helix proteins, AraC family
+pfam00254	FKBP_C: FKBP-type peptidyl-prolyl cis-trans isomerase
+pfam00361	Oxidored_q1: NADH-Ubiquinone/plastoquinone (complex I), various chains
+pfam00395	SLH: S-layer homology domain
+pfam00438	S-AdoMet_synt_N: S-adenosylmethionine synthetase, N-terminal domain
+pfam00440	TetR_N: Bacterial regulatory proteins, tetR family
+pfam00482	T2SF: Type II secretion system (T2SS), protein F
+pfam00520	Ion_trans: Ion transport protein
+pfam00664	ABC_membrane: ABC transporter transmembrane region
+pfam00763	THF_DHG_CYH: Tetrahydrofolate dehydrogenase/cyclohydrolase, catalytic domain
+pfam00892	EamA: EamA-like transporter family
+pfam00912	Transgly: Transglycosylase
+pfam01029	NusB: NusB family
+pfam01051	Rep_3: Initiator Replication protein
+pfam01061	ABC2_membrane: ABC-2 type transporter
+pfam01077	NIR_SIR: Nitrite and sulphite reductase 4Fe-4S domain
+pfam01139	RtcB: tRNA-splicing ligase RtcB
+pfam01346	FKBP_N: Domain amino terminal to FKBP-type peptidyl-prolyl isomerase
+pfam01391	Collagen: Collagen triple helix repeat (20 copies)
+pfam01402	RHH_1: Ribbon-helix-helix protein, copG family
+pfam01433	Peptidase_M1: Peptidase family M1
+pfam01442	Apolipoprotein: Apolipoprotein A1/A4/E domain
+pfam01446	Rep_1: Replication protein
+pfam01473	CW_binding_1: Putative cell wall binding repeat
+pfam01544	CorA: CorA-like Mg2+ transporter protein
+pfam01576	Myosin_tail_1: Myosin tail
+pfam01614	IclR: Bacterial transcriptional regulator
+pfam01656	CbiA: CobQ/CobB/MinD/ParA nucleotide binding domain
+pfam01713	Smr: Smr domain
+pfam01814	Hemerythrin: Hemerythrin HHE cation binding domain
+pfam01882	DUF58: Protein of unknown function DUF58
+pfam01935	DUF87: Domain of unknown function DUF87
+pfam02050	FliJ: Flagellar FliJ protein
+pfam02151	UVR: UvrB/uvrC motif
+pfam02222	ATP-grasp: ATP-grasp domain
+pfam02311	AraC_binding: AraC-like ligand binding domain
+pfam02321	OEP: Outer membrane efflux protein
+pfam02368	Big_2: Bacterial Ig-like domain (group 2)
+pfam02463	SMC_N: RecF/RecN/SMC N terminal domain
+pfam02486	Rep_trans: Replication initiation factor
+pfam02511	Thy1: Thymidylate synthase complementing protein
+pfam02557	VanY: D-alanyl-D-alanine carboxypeptidase
+pfam02578	Cu-oxidase_4: Multi-copper polyphenol oxidoreductase laccase
+pfam02589	DUF162: Uncharacterized ACR, YkgG family COG1556
+pfam02646	RmuC: RmuC family
+pfam02659	DUF204: Domain of unknown function DUF
+pfam02687	FtsX: FtsX-like permease family
+pfam02702	KdpD: Osmosensitive K+ channel His kinase sensor domain
+pfam02706	Wzz: Chain length determinant protein
+pfam02729	OTCace_N: Aspartate/ornithine carbamoyltransferase, carbamoyl-P binding domain
+pfam02772	S-AdoMet_synt_M: S-adenosylmethionine synthetase, central domain
+pfam02773	S-AdoMet_synt_C: S-adenosylmethionine synthetase, C-terminal domain
+pfam02780	Transketolase_C: Transketolase, C-terminal domain
+pfam02881	SRP54_N: SRP54-type protein, helical bundle domain
+pfam03090	Replicase: Replicase family
+pfam03118	RNA_pol_A_CTD: Bacterial RNA polymerase, alpha chain C terminal domain
+pfam03174	CHB_HEX_C: Chitobiase/beta-hexosaminidase C-terminal domain
+pfam03382	DUF285: Mycoplasma protein of unknown function, DUF285
+pfam03389	MobA_MobL: MobA/MobL family
+pfam03460	NIR_SIR_ferr: Nitrite/Sulfite reductase ferredoxin-like half domain
+pfam03589	Antiterm: Antitermination protein
+pfam03979	Sigma70_r1_1: Sigma-70 factor, region 1.1
+pfam04055	Radical_SAM: Radical SAM superfamily
+pfam04201	TPD52: tumor protein D52 family
+pfam04225	OapA: Opacity-associated protein A LysM-like domain
+pfam04383	KilA-N: KilA-N domain
+pfam04404	ERF: ERF superfamily
+pfam04434	SWIM: SWIM zinc finger
+pfam04492	Phage_rep_O: Bacteriophage replication protein O
+pfam04529	Herpes_U59: Herpesvirus U59 protein
+pfam04539	Sigma70_r3: Sigma-70 region 3
+pfam04542	Sigma70_r2: Sigma-70 region 2
+pfam04632	FUSC: Fusaric acid resistance protein family
+pfam04637	Herpes_pp85: Herpesvirus phosphoprotein 85 (HHV6-7 U14/HCMV UL25)
+pfam05036	SPOR: Sporulation related domain
+pfam05157	T2SE_Nter: Type II secretion system (T2SS), protein E, N-terminal domain
+pfam05193	Peptidase_M16_C: Peptidase M16 inactive domain
+pfam05257	CHAP: CHAP domain
+pfam05478	Prominin: Prominin
+pfam06048	DUF927: Domain of unknown function (DUF927)
+pfam06463	Mob_synth_C: Molybdenum Cofactor Synthesis C
+pfam06605	Prophage_tail: Prophage endopeptidase tail
+pfam06992	Phage_lambda_P: Replication protein P
+pfam07067	DUF1340: Protein of unknown function (DUF1340)
+pfam07083	DUF1351: Protein of unknown function (DUF1351)
+pfam07104	DUF1366: Protein of unknown function (DUF1366)
+pfam07261	DnaB_2: Replication initiation and membrane attachment
+pfam07479	NAD_Gly3P_dh_C: NAD-dependent glycerol-3-phosphate dehydrogenase C-terminus
+pfam07673	DUF1602: Protein of unknown function (DUF1602)
+pfam07690	MFS_1: Major Facilitator Superfamily
+pfam07715	Plug: TonB-dependent Receptor Plug Domain
+pfam07724	AAA_2: AAA domain (Cdc48 subfamily)
+pfam07885	Ion_trans_2: Ion channel
+pfam07929	PRiA4_ORF3: Plasmid pRiA4b ORF-3-like protein
+pfam07971	Glyco_hydro_92: Glycosyl hydrolase family 92
+pfam07980	SusD: SusD family
+pfam08239	SH3_3: Bacterial SH3 domain
+pfam08244	Glyco_hydro_32C: Glycosyl hydrolases family 32 C terminal
+pfam08275	Toprim_N: DNA primase catalytic core, N-terminal domain
+pfam08352	oligo_HPY: Oligopeptide/dipeptide transporter, C-terminal region
+pfam08386	Abhydrolase_4: TAP-like protein
+pfam08400	phage_tail_N: Prophage tail fibre N-terminal
+pfam08501	Shikimate_dh_N: Shikimate dehydrogenase substrate binding domain
+pfam08525	OapA_N: Opacity-associated protein A N-terminal motif
+pfam08531	Bac_rhamnosid_N: Alpha-L-rhamnosidase N-terminal domain
+pfam08707	PriCT_2: Primase C terminal 2 (PriCT-2)
+pfam08708	PriCT_1: Primase C terminal 1 (PriCT-1)
+pfam08797	HIRAN: HIRAN domain
+pfam08842	Mfa2: Fimbrillin-A associated anchor proteins Mfa1 and Mfa2
+pfam08843	DUF1814: Nucleotidyl transferase of unknown function (DUF1814)
+pfam09003	Phage_integ_N: Bacteriophage lambda integrase, N-terminal domain
+pfam09296	NUDIX-like: NADH pyrophosphatase-like rudimentary NUDIX domain
+pfam09297	zf-NADH-PPase: NADH pyrophosphatase zinc ribbon domain
+pfam09479	Flg_new: Listeria-Bacteroides repeat domain (List_Bact_rpt)
+pfam09507	CDC27: DNA polymerase subunit Cdc27
+pfam09640	DUF2027: Domain of unknown function (DUF2027)
+pfam09674	DUF2400: Protein of unknown function (DUF2400)
+pfam09826	Beta_propel: Beta propeller domain
+pfam09851	SHOCT: Short C-terminal domain
+pfam09925	DUF2157: Predicted membrane protein (DUF2157)
+pfam09992	DUF2233: Predicted periplasmic protein (DUF2233)
+pfam10076	DUF2313: Uncharacterized protein conserved in bacteria (DUF2313)
+pfam10414	CysG_dimeriser: Sirohaem synthase dimerization region
+pfam10543	ORF6N: ORF6N domain
+pfam10544	T5orf172: T5orf172 domain
+pfam10547	P22_AR_N: P22_AR N-terminal domain
+pfam10576	EndIII_4Fe-2S: Iron-sulfur binding domain of endonuclease III
+pfam10651	DUF2479: Domain of unknown function (DUF2479)
+pfam10974	DUF2804: Protein of unknown function (DUF2804)
+pfam10991	DUF2815: Protein of unknown function (DUF2815)
+pfam11041	DUF2612: Protein of unknown function (DUF2612)
+pfam11104	PilM_2: Type IV pilus assembly protein PilM;
+pfam11307	DUF3109: Protein of unknown function (DUF3109)
+pfam11363	DUF3164: Protein of unknown function (DUF3164)
+pfam11417	Inhibitor_G39P: Loader and inhibitor of phage G40P
+pfam11726	DUF3296: Protein of unknown function (DUF3296)
+pfam11769	DUF3313: Protein of unknown function (DUF3313)
+pfam11863	DUF3383: Protein of unknown function (DUF3383)
+pfam11940	DUF3458: Domain of unknown function (DUF3458)
+pfam12128	DUF3584: Protein of unknown function (DUF3584)
+pfam12138	Spherulin4: Spherulation-specific family 4
+pfam12224	Amidoligase_2: Putative amidoligase enzyme
+pfam12329	TMF_DNA_bd: TATA element modulatory factor 1 DNA binding
+pfam12344	UvrB: Ultra-violet resistance protein B
+pfam12392	DUF3656: Collagenase
+pfam12684	DUF3799: PDDEXK-like domain of unknown function (DUF3799)
+pfam12691	Minor_capsid_3: Minor capsid protein from bacteriophage
+pfam12697	Abhydrolase_6: Alpha/beta hydrolase family
+pfam12698	ABC2_membrane_3: ABC-2 family transporter protein
+pfam12705	PDDEXK_1: PD-(D/E)XK nuclease superfamily
+pfam12706	Lactamase_B_2: Beta-lactamase superfamily domain
+pfam12728	HTH_17: Helix-turn-helix domain
+pfam12730	ABC2_membrane_4: ABC-2 family transporter protein
+pfam12733	Cadherin-like: Cadherin-like beta sandwich domain
+pfam12833	HTH_18: Helix-turn-helix domain
+pfam12836	HHH_3: Helix-hairpin-helix motif
+pfam12838	Fer4_7: 4Fe-4S dicluster domain
+pfam12844	HTH_19: Helix-turn-helix domain
+pfam12846	AAA_10: AAA-like domain
+pfam12873	DUF3825: Domain of unknown function (DUF3825)
+pfam12920	TcdA_TcdB_pore: TcdA/TcdB pore forming domain
+pfam13007	LZ_Tnp_IS66: Transposase C of IS166 homeodomain
+pfam13088	BNR_2: BNR repeat-like domain
+pfam13102	Phage_int_SAM_5: Phage integrase SAM-like domain
+pfam13177	DNA_pol3_delta2: DNA polymerase III, delta subunit
+pfam13183	Fer4_8: 4Fe-4S dicluster domain
+pfam13240	zinc_ribbon_2: zinc-ribbon domain
+pfam13241	NAD_binding_7: Putative NAD(P)-binding
+pfam13245	AAA_19: Part of AAA domain
+pfam13246	Hydrolase_like2: Putative hydrolase of sodium-potassium ATPase alpha subunit
+pfam13276	HTH_21: HTH-like domain
+pfam13280	WYL: WYL domain
+pfam13286	HD_assoc: Phosphohydrolase-associated domain
+pfam13333	rve_2: Integrase core domain
+pfam13335	Mg_chelatase_2: Magnesium chelatase, subunit ChlI
+pfam13342	Toprim_Crpt: C-terminal repeat of topoisomerase
+pfam13347	MFS_2: MFS/sugar transport protein
+pfam13356	DUF4102: Domain of unknown function (DUF4102)
+pfam13365	Trypsin_2: Trypsin-like peptidase domain
+pfam13375	RnfC_N: RnfC Barrel sandwich hybrid domain
+pfam13384	HTH_23: Homeodomain-like domain
+pfam13392	HNH_3: HNH endonuclease
+pfam13401	AAA_22: AAA domain
+pfam13408	Zn_ribbon_recom: Recombinase zinc beta ribbon domain
+pfam13437	HlyD_3: HlyD family secretion protein
+pfam13476	AAA_23: AAA domain
+pfam13479	AAA_24: AAA domain
+pfam13481	AAA_25: AAA domain
+pfam13493	DUF4118: Domain of unknown function (DUF4118)
+pfam13495	Phage_int_SAM_4: Phage integrase, N-terminal SAM-like domain
+pfam13529	Peptidase_C39_2: Peptidase_C39 like family
+pfam13533	Biotin_lipoyl_2: Biotin-lipoyl like
+pfam13535	ATP-grasp_4: ATP-grasp domain
+pfam13536	EmrE: Multidrug resistance efflux transporter
+pfam13539	Peptidase_M15_4: D-alanyl-D-alanine carboxypeptidase
+pfam13550	Phage-tail_3: Putative phage tail protein
+pfam13567	DUF4131: Domain of unknown function (DUF4131)
+pfam13568	OMP_b-brl_2: Outer membrane protein beta-barrel domain
+pfam13571	DUF4133: Domain of unknown function (DUF4133)
+pfam13636	Nol1_Nop2_Fmu_2: pre-rRNA processing and ribosome biogenesis
+pfam13659	Methyltransf_26: Methyltransferase domain
+pfam13672	PP2C_2: Protein phosphatase 2C
+pfam13730	HTH_36: Helix-turn-helix domain
+pfam13749	HATPase_c_4: ATP-dependent DNA helicase recG C-terminal
+pfam13751	DDE_Tnp_1_6: Transposase DDE domain
+pfam13817	DDE_Tnp_IS66_C: IS66 C-terminal element
+pfam13830	DUF4192: Domain of unknown function (DUF4192)
+pfam13884	Peptidase_S74: Chaperone of endosialidase
+pfam13906	AA_permease_C: C-terminus of AA_permease
+pfam13936	HTH_38: Helix-turn-helix domain
+pfam14020	DUF4236: Protein of unknown function (DUF4236)
+pfam14058	PcfK: PcfK-like protein
+pfam14163	SieB: Superinfection exclusion protein B
+pfam14238	DUF4340: Domain of unknown function (DUF4340)
+pfam14265	DUF4355: Domain of unknown function (DUF4355)
+pfam14283	DUF4366: Domain of unknown function (DUF4366)
+pfam14284	PcfJ: PcfJ-like protein
+pfam14287	DUF4368: Domain of unknown function (DUF4368)
+pfam14297	DUF4373: Domain of unknown function (DUF4373)
+pfam14345	GDYXXLXY: GDYXXLXY protein
+pfam14354	Lar_restr_allev: Restriction alleviation protein Lar
+pfam14471	DUF4428: Domain of unknown function (DUF4428)
+pfam14594	Sipho_Gp37: Siphovirus ReqiPepy6 Gp37-like protein
+pfam14606	Lipase_GDSL_3: GDSL-like Lipase/Acylhydrolase family
+pfam14607	GxDLY: N-terminus of Esterase_SGNH_hydro-type
+pfam14657	Integrase_AP2: AP2-like DNA-binding integrase domain
+pfam14659	Phage_int_SAM_3: Phage integrase, N-terminal SAM-like domain
+pfam14662	CCDC155: Coiled-coil region of CCDC155
+pfam14714	KH_dom-like: KH-domain-like of EngA bacterial GTPase enzymes, C-terminal
+pfam14771	DUF4476: Domain of unknown function (DUF4476)
+pfam14824	Sirohm_synth_M: Sirohaem biosynthesis protein central
+pfam14873	BNR_assoc_N: N-terminal domain of BNR-repeat neuraminidase
+pfam14902	DUF4494: Domain of unknown function (DUF4494)
+pfam15087	DUF4551: Protein of unknown function (DUF4551)
+pfam15542	Toxin_64: Putative toxin 64
+pfam15616	TerY-C: TerY-C metal binding domain
+pfam15655	Imm-NTF2: NTF2 fold immunity protein
