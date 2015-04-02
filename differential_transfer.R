@@ -31,7 +31,7 @@ all_pfam_families <- function(cdd) {
 
 contig_cdd <- read_contig_cdd("minimo_contigs_min_len_500_cdd_accession.tsv")
 cdd_annotation <- read_cdd_annotation("pfam_function.tsv")
-cdd_contig_annotation <- add_annotataion_to_cdd(contig_cdd, cdd_annotation)
+cdd_contig_annotation <- add_annotation_to_cdd(contig_cdd, cdd_annotation)
 
 transferred_contigs <- scan("transfferred_contigs_from_4_donor.txt", what=character())
 cdd_contig_annotation$is_transferred <- cdd_contig_annotation$contig %in% transferred_contigs

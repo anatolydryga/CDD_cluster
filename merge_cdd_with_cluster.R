@@ -1,6 +1,6 @@
 #' for each cdd add custom annotation and keeping all contigs.
 #' @return datframe with 3 columns: cdd, contig, annotation
-add_annotataion_to_cdd <- function(contig_cdd, cdd_annotation) {
+add_annotation_to_cdd <- function(contig_cdd, cdd_annotation) {
     contig_cdd_annotation <- merge(contig_cdd, cdd_annotation, by=c("cdd"), all.x=TRUE)
     contig_cdd_annotation
 }
