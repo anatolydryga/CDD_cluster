@@ -9,6 +9,7 @@ add_annotation_to_cdd <- function(contig_cdd, cdd_annotation) {
 #' @return dataframe with 2 columns: annotation and frequency(Freq)
 cdd_annotation_counts <- function(contig_cdd_annotation) {
     counts <- as.data.frame(table(contig_cdd_annotation$annotation))
+    names(counts) <- c("annotation", "Freq")
     counts
 }
 
