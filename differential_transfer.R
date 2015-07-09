@@ -44,3 +44,6 @@ functional_groups <- as.character(unique(cdd_annotation$annotation))
 differential_transferred_functional_groups <- sapply(functional_groups, differential_transfer_group)
 functional_groups_of_interest <- differential_transferred_functional_groups[ 
     differential_transferred_functional_groups < 0.1]
+
+fam <- data.frame(cdd_hit=names(families_of_interest), p_value=families_of_interest)
+write.table(fam, file="differential_transfer.tsv", sep="\t", quote = FALSE, row.names = FALSE)
