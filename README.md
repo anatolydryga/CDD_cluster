@@ -24,7 +24,7 @@ Process data:
 Create the csv file where  1st column is cdd acession(e.g. pfam1234)
 and run the script:
 
-`bash
+```bash
 cdd_description_addition.py file_with_no_description.csv file_with_description.csv
-`
+```
 that would create a file with last column as title.
