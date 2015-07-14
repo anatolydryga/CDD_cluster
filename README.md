@@ -1,3 +1,5 @@
+[![Build Status](https://travis-ci.org/anatolydryga/CDD_cluster.png)](https://travis-ci.org/anatolydryga/CDD_cluster)
+
 # Annotation of Viral and Phage CDD hits
 
 At present pfam IDs are annoatated with function information, e.g. Phage Regulation, Phage Capsid.
