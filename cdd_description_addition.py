@@ -43,6 +43,7 @@ pfam_with_description_writer = csv.writer(
 
 for row in pfam_no_description_reader:
     title = get_title(row[0])
+    print row[0],  title
     assert title != ""
     pfam_with_description_writer.writerow(row + [title])
 
