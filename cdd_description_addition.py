@@ -16,8 +16,18 @@ def run_command(command, error_message):
     except subprocess.CalledProcessError:
         print error_message
 
+cdd_title = {}
+
 def get_title(cdd_accession):
-    """ for a given id(e.g. pfam) pull short description"""
+    if cdd_accession in cdd_title:
+        return cdd_title[cdd_accession]
+    else:
+        title = _get_title_from_ncbi(cdd_accession)
+        cdd_title[cdd_accession] = title
+    return title
+
+def _get_title_from_ncbi(cdd_accession):
+    """ for a given id(e.g. pfam) pull short description from NCBI"""
     output = tempfile.NamedTemporaryFile(delete=False)
     command = ('esearch -db cdd -query "' + cdd_accession 
         + ' [ACCN]" | efetch > ' + output.name)
@@ -25,6 +35,7 @@ def get_title(cdd_accession):
     title = parse_output(output)
     os.remove(output.name)
     return title
+
 
 def parse_output(output_fh):
     try:
