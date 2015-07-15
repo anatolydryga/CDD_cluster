@@ -30,3 +30,11 @@ and run the script:
 cdd_description_addition.py file_with_no_description.csv file_with_description.csv
 ```
 that would create a file with last column as title.
+
+If cdd accesion is not in the 1st column the last argument specify index of the 
+cdd column(1-based indexing):
+```bash
+cdd_description_addition.py file_with_no_description.csv file_with_description.csv 2
+```
+means that in file `file_with_no_description.csv` column with cdd accesion number is column
+number 2.
