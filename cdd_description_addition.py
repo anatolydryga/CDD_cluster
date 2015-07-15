@@ -1,5 +1,9 @@
 #!/usr/bin/python
 
+# interface:
+# ./cdd_description_addition.py file_in.tsv file_out_description.tsv [pfam_column]
+# pfam_column = 1 by default(1-based indexing)
+
 import sys
 import tempfile
 import os
@@ -33,17 +37,22 @@ def parse_output(output_fh):
     return line
     
 
-assert len(sys.argv) == 3
+assert len(sys.argv) == 3 or len(sys.argv) == 4
 pfam_no_description = open(sys.argv[1], "r")
 pfam_with_description = open(sys.argv[2], "w")
+if len(sys.argv) == 3:
+    pfam_column = 0
+if len(sys.argv) == 4:
+    pfam_column = int(sys.argv[3]) - 1
+assert pfam_column >= 0
 
 pfam_no_description_reader = csv.reader(pfam_no_description, delimiter='\t') 
 pfam_with_description_writer = csv.writer(
     pfam_with_description, delimiter='\t', quoting=csv.QUOTE_NONE)
 
 for row in pfam_no_description_reader:
-    title = get_title(row[0])
-    print row[0],  title
+    title = get_title(row[pfam_column])
+    print row[pfam_column],  title
     assert title != ""
     pfam_with_description_writer.writerow(row + [title])
 
