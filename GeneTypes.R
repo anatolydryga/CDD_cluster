@@ -1,4 +1,4 @@
-# to run type : Rscript DNAmod_sample_cdd.R
+# to run type : Rscript GeneTypes.R input_file_name.tsv
 # on cmd line
 # Counts but not abundance is taken into account
 
@@ -8,7 +8,9 @@ source("read_cdd.R")
 source("merge_cdd_with_cluster.R")
 source("annotation_count_sample.R")
 
-samples <- read.delim("DNAmod_sample_cdd.tsv", stringsAsFactors=FALSE)
+input_file <- commandArgs(trailingOnly=TRUE)[1]
+
+samples <- read.delim(input_file, stringsAsFactors=FALSE)
 cdd_annotation <- read_cdd_annotation("pfam_function.tsv") 
 n_annotation <- length(unique(cdd_annotation$annotation))
 
