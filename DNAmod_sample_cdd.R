@@ -1,0 +1,27 @@
+# to run type : Rscript DNAmod_sample_cdd.R
+# on cmd line
+# Counts but not abundance is taken into account
+
+library(ggplot2)
+library(RColorBrewer)
+source("read_cdd.R")
+source("merge_cdd_with_cluster.R")
+source("annotation_count_sample.R")
+
+samples <- read.delim("DNAmod_sample_cdd.tsv", stringsAsFactors=FALSE)
+cdd_annotation <- read_cdd_annotation("pfam_function.tsv") 
+n_annotation <- length(unique(cdd_annotation$annotation))
+
+sample_annotation_count <- mapply(annotation_counts_for_sample, samples$files, samples$sample_name, 
+        MoreArgs=list(cdd_annotation), SIMPLIFY=FALSE)
+sample_annotation_count <- do.call(rbind, sample_annotation_count)
+
+n_annotation <- length(unique(sample_annotation_count$annotation))
+colorPallete <- colorRampPalette(brewer.pal(12, "Paired"))
+
+ggplot(data = sample_annotation_count, aes(x=sample_name, y=Freq, fill=annotation)) + 
+    geom_bar(stat = "identity", colour="darkgreen") + 
+    theme_bw() +  scale_fill_manual(values=colorPallete(n_annotation)) +
+    theme(axis.text.x = element_text(angle = 90)) +
+    ggtitle("Viral Gene Types Composition")
+ggsave("Gene_types.pdf", scale=1.3)
