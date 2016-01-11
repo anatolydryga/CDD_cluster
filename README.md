@@ -2,7 +2,7 @@
 
 # Annotation of Viral and Phage CDD hits with Gene Types
 
-At present PFAM IDs are annoatated with phage function(gene type) information, e.g. Phage Regulation, Phage Capsid.
+At present PFAM IDs are annotated with phage function(gene type) information, e.g. Phage Regulation, Phage Capsid.
 See file `pfam_function.tsv` for complete list of annotated families.
 
 # Usage
@@ -40,7 +40,7 @@ cdd column(1-based indexing):
 ```bash
 cdd_description_addition.py file_with_no_description.csv file_with_description.csv 2
 ```
-means that in file `file_with_no_description.csv` column with cdd accesion number is column
+means that in file `file_with_no_description.csv` column with cdd accession number is column
 number 2.
 
 # Development
@@ -53,5 +53,3 @@ Read data:
 Process data:
 * `add_annotataion_to_cdd`
 * `cdd_annotation_counts`
-
-
