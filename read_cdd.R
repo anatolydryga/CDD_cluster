@@ -2,6 +2,9 @@
 #' @return dataframe with contig, cdd columns. 
 read_contig_cdd <- function(filename) {
     contig_cdd <- read.delim(filename, header=FALSE)
+    if(ncol(contig_cdd) != 2){
+	stop("contig cdd file should have two columns, the 1st is contig_name, the second is pfam")
+    }
     names(contig_cdd) <- c("contig", "cdd")
     contig_cdd
 }
