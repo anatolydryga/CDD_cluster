@@ -4,6 +4,7 @@
 
 At present PFAM IDs are annotated with phage function(gene type) information, e.g. Phage Regulation, Phage Capsid.
 See file `pfam_function.tsv` for complete list of annotated families.
+If there is no phage function annotation we call it "Other".
 
 # Usage
 
@@ -11,7 +12,7 @@ To create Figure with gene type annotation for CDD hits for several samples:
 ```{bash}
 Rscript GeneTypes.R input_file.tsv
 ```
-that script creates `Gene_types.pdf` Figure.
+that script creates `Gene_types_counts.pdf` Figure and `Gene_types_proportions.pdf` Figure
 
 Input file(`input_file.tsv`) format has header and data:
 ```
