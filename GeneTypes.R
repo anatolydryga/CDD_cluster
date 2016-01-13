@@ -12,7 +12,6 @@ input_file <- commandArgs(trailingOnly=TRUE)[1]
 
 samples <- read.delim(input_file, stringsAsFactors=FALSE)
 cdd_annotation <- read_cdd_annotation("pfam_function.tsv") 
-n_annotation <- length(unique(cdd_annotation$annotation))
 
 sample_annotation_count <- mapply(annotation_counts_for_sample, samples$files, samples$sample_name, 
         MoreArgs=list(cdd_annotation), SIMPLIFY=FALSE)
